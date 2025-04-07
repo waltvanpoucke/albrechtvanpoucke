@@ -1,8 +1,0 @@
-h1 {
-	font: italic;
-}
-
-body {
-	background-color: aqua;
-	font: italic;
-}
